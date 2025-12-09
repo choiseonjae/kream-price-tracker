@@ -4,7 +4,5 @@
       "path": "/api/cron/refresh-prices",
       "schedule": "0 0 * * *"
     }
-  ],
-  "buildCommand": "npm run build",
-  "installCommand": "npm install --legacy-peer-deps --no-audit --no-fund --loglevel=error"
+  ]
 }
